@@ -22,7 +22,7 @@ To design an app prototype that helps employees manage workplace stress through 
 - Identified key pain points: lack of private spaces, generic wellness programs, no on-demand relief
 
 **Problem Statement:**
-> How might we design a smart, AI-powered app that offers instant, personalized, and private stress relief sessions for employees — adjusting music, lighting, and aroma to individual stress levels — so that employees can reduce stress quickly and return to peak productivity without disrupting their workflow?
+> How might we use AI-driven sensory modulation (lighting, sound, and aroma) to provide a discreet, instant wellness sanctuary that empowers employees to optimize their mental state during the workday?"
 
 ---
 
