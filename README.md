@@ -21,7 +21,7 @@ To design an app prototype that helps employees manage workplace stress through 
 - Built 10 empathy maps capturing stress triggers, coping mechanisms, and relaxation preferences
 - Identified key pain points: lack of private spaces, generic wellness programs, no on-demand relief
 
-**Problem Statement:**
+**Problem**
 > How might we use AI-driven sensory modulation (lighting, sound, and aroma) to provide a discreet, instant wellness sanctuary that empowers employees to optimize their mental state during the workday?"
 
 ---
@@ -39,8 +39,6 @@ To design an app prototype that helps employees manage workplace stress through 
 ---
 
 ### 3. Prototype
-
-Built using Figma / Canva / Adobe XD
 
 **Screens Designed:**
 - Login / Welcome Screen
@@ -82,9 +80,7 @@ Built using Figma / Canva / Adobe XD
 
 ## Tools Used
 
-| Purpose | Tool |
-|---|---|
-| Prototyping | Figma |
-| Empathy Mapping | Miro |
-| Personas | Miro|
-| Documentation | Google Docs / PDF |
+Figma — App screen design and clickable prototype
+Miro — Empathy mapping, brainstorming
+Google Forms — User surveys
+GitHub — Repository and documentation
